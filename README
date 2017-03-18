@@ -1,0 +1,3 @@
+GraphLab PowerGraph (<https://github.com/jegonzal/PowerGraph>) is not being supported and has broken dependency links on build.
+
+Use the corresponding files in this repo instead of the ones PowerGraph has (these have the urls manually changed).
